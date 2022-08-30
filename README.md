@@ -37,6 +37,8 @@ The final question we try to answer in this project is:
 * time (int) - time in hours since start of test. The data begins at time t=0
 * value - (dict of strings) - either an offer id or transaction amount depending on the record
 
+since transcript is too large to upload, I will provide the link here: https://www.kaggle.com/datasets/blacktile/starbucks-app-customer-reward-program-data
+
 ### Result Summary
 The main findings can be found in the code and are discussed in the post here:  https://medium.com/@thomas.grassinger/recommending-offers-for-starbucks-customers-bd7bdc36ea25
 
